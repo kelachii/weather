@@ -51,4 +51,4 @@ document
         }
     });
 
-weather.fetchWeather("Lagos");
+weather.fetchWeather("Port Harcourt");
